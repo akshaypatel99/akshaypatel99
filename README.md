@@ -11,7 +11,9 @@ Using online learning resources such as [**freeCodeCamp**](https://www.freecodec
 I like to keep up-to-date with the latest trends in web development and expand my knowledge by reading articles, blogs and tutorials, as well as watching developer talks.
 
 
-<h3>My current skillset:<h3>
+<h3>My current skillset: <h3>
+    |    |    |    |
+----|----|----|----|
 HTML | React | GraphQL | Jest | Styled-Components
 CSS | React Native | Node.js | Jest | Styled-Components
 JavaScript | Next.js | Express.js | Jest | Styled-Components
