@@ -1,6 +1,6 @@
 # Hi there, I'm Akshay 👋
 
-#### *I'm a self-taught web developer with a passion for creating beautiful, responsive and interactive user experiences.*
+### *I'm a self-taught web developer with a passion for creating beautiful, responsive and interactive user experiences.*
 
 Using online learning resources such as [**freeCodeCamp**](https://www.freecodecamp.org/), [**Frontend Masters**](https://frontendmasters.com/) and [**Udemy**](https://www.udemy.com/), in addition to texts such as [**JavaScript: The Definitive Guide**](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/), I have gained a solid understanding of modern web development technologies and concepts. I apply what I have learnt to real-world scenarios by building web applications that are performant and easy to use.
 
