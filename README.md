@@ -11,7 +11,7 @@ Using online learning resources such as [**freeCodeCamp**](https://www.freecodec
 I like to keep up-to-date with the latest trends in web development and expand my knowledge by reading articles, blogs and tutorials, as well as watching developer talks.
 
 
-My current skillset:
+<h3>My current skillset:<h3>
 <p>
 	<ul>
 		<li>HTML</li>
@@ -57,14 +57,14 @@ My current skillset:
 	about outside of writing code.
 </p>
 <ul className='tech-list'>
-	<li>Lifting weights</li>
-	<li>Cooking</li>
-	<li>Going on walks</li>
-	<li>Hiking</li>
-	<li>Photography</li>
-	<li>Reading</li>
-	<li>Environmentalism</li>
-	<li>Animal conservation</li>
+	<li>🏋️‍ Lifting weights</li>
+	<li>👨‍🍳 Cooking</li>
+	<li>🚶‍ Going on walks</li>
+	<li>⛰ Hiking</li>
+	<li>📸 Photography</li>
+	<li>📚 Reading</li>
+	<li>🌿 Environmentalism</li>
+	<li>🐆 Animal conservation</li>
 </ul>
 <p>Happy to share any tips and recommendations.</p>
 
