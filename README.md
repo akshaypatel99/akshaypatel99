@@ -29,7 +29,7 @@ My current skillset:
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />  
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaypatel99&layout=compact&theme=cobalt&hide_border=true" />
 
 
 <!--
