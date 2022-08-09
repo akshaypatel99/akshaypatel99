@@ -41,11 +41,10 @@ I like to keep up-to-date with the latest trends in web development and expand m
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaypatel99&layout=compact&theme=prussian&hide_border=true" />
 
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=akshaypatel99&repo=mercado-app&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-
 
 - 🌱 I’m currently learning **Python**
 - 📫 How to reach me: [Email me here](https://www.akshaypatel.dev/contact)
+- ⚡ Fun fact: My first job was as a voice-over artist
 
 ---
 ### My interests
