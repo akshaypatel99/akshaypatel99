@@ -1,5 +1,6 @@
 # Hi there, I'm Akshay 👋
 
+## [akshaypatel.dev](https://www.akshaypatel.dev/)
 
 ### *I'm a self-taught web developer with a passion for creating beautiful, responsive and interactive user experiences.*
 
@@ -31,6 +32,14 @@ My current skillset:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaypatel99&layout=compact&theme=cobalt&hide_border=true" />
 
+- 🌱 I’m currently learning **Python**
+- 📫 How to reach me: [Email me here](https://www.akshaypatel.dev/contact)
+
+---
+<p align="center"> © 2022 Akshay Patel</p>
+<p align="center">
+[https://www.akshaypatel.dev](https://www.akshaypatel.dev/)
+</p>
 
 <!--
 **akshaypatel99/akshaypatel99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
