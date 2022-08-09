@@ -11,9 +11,14 @@ Using online learning resources such as [**freeCodeCamp**](https://www.freecodec
 I like to keep up-to-date with the latest trends in web development and expand my knowledge by reading articles, blogs and tutorials, as well as watching developer talks.
 
 
-<h3>My current skillset: <h3>
-    |    |    |    |
-----|----|----|----|
+### My current skillset
+
+First Header | Second Header | Third Header
+------------ | ------------- | -------------
+👉 Content cell 1 | ✅ Content cell 2 | ⭕️ Content cell 3
+👉 Content column 1 | ✅ Content column 2 | ⭕️ Content column 3
+👉 Content column 1 | ✅ Content column 2 | ⭕️ Content column 3
+
 HTML | React | GraphQL | Jest | Styled-Components
 CSS | React Native | Node.js | Jest | Styled-Components
 JavaScript | Next.js | Express.js | Jest | Styled-Components
@@ -57,22 +62,20 @@ TypeScript | React Router | MongoDB | Jest | Styled-Components
 - 📫 How to reach me: [Email me here](https://www.akshaypatel.dev/contact)
 
 ---
-<h3>My interests</h3>
-<p>
-	Here are a few things I like to do and that I am passionate
-	about outside of writing code.
-</p>
-<ul className='tech-list'>
-	<li>🏋️‍ Lifting weights</li>
-	<li>👨‍🍳 Cooking</li>
-	<li>🚶‍ Going on walks</li>
-	<li>⛰ Hiking</li>
-	<li>📸 Photography</li>
-	<li>📚 Reading</li>
-	<li>🌿 Environmentalism</li>
-	<li>🐆 Animal conservation</li>
-</ul>
-<p>Happy to share any tips and recommendations.</p>
+### My interests
+
+Here are a few things I like to do and that I am passionate about outside of writing code.
+
+- 🏋️‍ Lifting weights
+- 👨‍🍳 Cooking
+- 🚶‍ Going on walks
+- ⛰ Hiking
+- 📸 Photography
+- 📚 Reading
+- 🌿 Environmentalism
+- 🐆 Animal conservation
+
+Happy to share any tips and recommendations.
 
 ---
 <p align="center"> © Akshay Patel 2022</p>
