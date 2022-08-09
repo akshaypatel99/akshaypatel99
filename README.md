@@ -13,8 +13,8 @@ I like to keep up-to-date with the latest trends in web development and expand m
 
 ### My current skillset
 
-Languages | Libs & Frameworks | Styles | Testing
------------- | ------------- | ------------- | -------------
+Languages | Libs & Frameworks | Libs & Frameworks | Styles Libs | Testing
+------------ | ------------- | ------------- | ------------- | -------------
 HTML | React | GraphQL | Jest | Styled-Components
 CSS | React Native | Node.js | Jest | Styled-Components
 JavaScript | Next.js | Express.js | Jest | Styled-Components
@@ -53,6 +53,9 @@ TypeScript | React Router | MongoDB | Jest | Styled-Components
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaypatel99&layout=compact&theme=prussian&hide_border=true" />
+
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=akshaypatel99&repo=mercado-app&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+
 
 - 🌱 I’m currently learning **Python**
 - 📫 How to reach me: [Email me here](https://www.akshaypatel.dev/contact)
