@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there, I'm Akshay 👋
+
+#### *I'm a self-taught web developer with a passion for creating beautiful, responsive and interactive user experiences.*
+
+Using online learning resources such as [**freeCodeCamp**](https://www.freecodecamp.org/), [**Frontend Masters**](https://frontendmasters.com/) and [**Udemy**](https://www.udemy.com/), in addition to texts such as [**JavaScript: The Definitive Guide**](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/), I have gained a solid understanding of modern web development technologies and concepts. I apply what I have learnt to real-world scenarios by building web applications that are performant and easy to use.
+
+I like to keep up-to-date with the latest trends in web development and expand my knowledge by reading articles, blogs and tutorials, as well as watching developer talks.
 
 <!--
 **akshaypatel99/akshaypatel99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
