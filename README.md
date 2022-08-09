@@ -12,11 +12,15 @@ I like to keep up-to-date with the latest trends in web development and expand m
 
 
 <h3>My current skillset:<h3>
-<p>
-	<ul>
-		<li>HTML</li>
-		<li>CSS</li>
-		<li>JavaScript</li>
+HTML | React | GraphQL | Jest | Styled-Components
+CSS | React Native | Node.js | Jest | Styled-Components
+JavaScript | Next.js | Express.js | Jest | Styled-Components
+TypeScript | React Router | MongoDB | Jest | Styled-Components
+
+
+<li>HTML</li> |
+<li>CSS</li>
+<li>JavaScript</li>
 		<li>TypeScript</li>
 	</ul>
 	<ul>
