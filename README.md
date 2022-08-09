@@ -13,42 +13,60 @@ I like to keep up-to-date with the latest trends in web development and expand m
 
 My current skillset:
 <p>
-<ul className='tag'>
-								<li>HTML</li>
-								<li>CSS</li>
-								<li>JavaScript</li>
-								<li>TypeScript</li>
-							</ul>
-							<ul className='tag'>
-								<li>React</li>
-								<li>React Native</li>
-								<li>Next.js</li>
-								<li>React Router</li>
-							</ul>
-							<ul className='tag'>
-								<li>GraphQL</li>
-								<li>Node.js</li>
-								<li>Express.js</li>
-								<li>MongoDB</li>
-							</ul>
-							<ul className='tag'>
-								<li>Jest</li>
-								<li>Testing Library</li>
-								<li>Cypress</li>
-								<li>Redux</li>
-							</ul>
-							<ul className='tag'>
-								<li>Styled-Components</li>
-								<li>SASS</li>
-								<li>Chakra UI</li>
-								<li>Tailwind CSS</li>
-							</ul>
+	<ul>
+		<li>HTML</li>
+		<li>CSS</li>
+		<li>JavaScript</li>
+		<li>TypeScript</li>
+	</ul>
+	<ul>
+		<li>React</li>
+		<li>React Native</li>
+		<li>Next.js</li>
+		<li>React Router</li>
+	</ul>
+	<ul>
+		<li>GraphQL</li>
+		<li>Node.js</li>
+		<li>Express.js</li>
+		<li>MongoDB</li>
+	</ul>
+	<ul>
+		<li>Jest</li>
+		<li>Testing Library</li>
+		<li>Cypress</li>
+		<li>Redux</li>
+	</ul>
+	<ul>
+		<li>Styled-Components</li>
+		<li>SASS</li>
+		<li>Chakra UI</li>
+		<li>Tailwind CSS</li>
+	</ul>
 </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaypatel99&layout=compact&theme=prussian&hide_border=true" />
 
 - 🌱 I’m currently learning **Python**
 - 📫 How to reach me: [Email me here](https://www.akshaypatel.dev/contact)
+
+---
+<h3>My interests</h3>
+<p>
+	Here are a few things I like to do and that I am passionate
+	about outside of writing code.
+</p>
+<ul className='tech-list'>
+	<li>Lifting weights</li>
+	<li>Cooking</li>
+	<li>Going on walks</li>
+	<li>Hiking</li>
+	<li>Photography</li>
+	<li>Reading</li>
+	<li>Environmentalism</li>
+	<li>Animal conservation</li>
+</ul>
+<p>Happy to share any tips and recommendations.</p>
 
 ---
 <p align="center"> © Akshay Patel 2022</p>
