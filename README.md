@@ -36,9 +36,9 @@ My current skillset:
 - 📫 How to reach me: [Email me here](https://www.akshaypatel.dev/contact)
 
 ---
-<p align="center"> © 2022 Akshay Patel</p>
+<p align="center"> © Akshay Patel 2022</p>
 <p align="center">
-[https://www.akshaypatel.dev](https://www.akshaypatel.dev/)
+https://www.akshaypatel.dev
 </p>
 
 <!--
