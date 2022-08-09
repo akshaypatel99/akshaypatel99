@@ -13,11 +13,12 @@ I like to keep up-to-date with the latest trends in web development and expand m
 
 ### My current skillset
 
-First Header | Second Header | Third Header
------------- | ------------- | -------------
-👉 Content cell 1 | ✅ Content cell 2 | ⭕️ Content cell 3
-👉 Content column 1 | ✅ Content column 2 | ⭕️ Content column 3
-👉 Content column 1 | ✅ Content column 2 | ⭕️ Content column 3
+Languages | Libs & Frameworks | Styles | Testing
+------------ | ------------- | ------------- | -------------
+HTML | React | GraphQL | Jest | Styled-Components
+CSS | React Native | Node.js | Jest | Styled-Components
+JavaScript | Next.js | Express.js | Jest | Styled-Components
+TypeScript | React Router | MongoDB | Jest | Styled-Components
 
 HTML | React | GraphQL | Jest | Styled-Components
 CSS | React Native | Node.js | Jest | Styled-Components
