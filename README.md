@@ -26,36 +26,31 @@ JavaScript | Next.js | Express.js | Jest | Styled-Components
 TypeScript | React Router | MongoDB | Jest | Styled-Components
 
 
-<li>HTML</li> |
-<li>CSS</li>
-<li>JavaScript</li>
-		<li>TypeScript</li>
-	</ul>
-	<ul>
+<li>HTML</li>		<li>React</li>
+<li>CSS</li>		<li>React Native</li>
+<li>JavaScript</li>	<li>Next.js</li>
+<li>TypeScript</li>	<li>React Router</li>
+
 		<li>React</li>
 		<li>React Native</li>
 		<li>Next.js</li>
 		<li>React Router</li>
-	</ul>
-	<ul>
+	
 		<li>GraphQL</li>
 		<li>Node.js</li>
 		<li>Express.js</li>
 		<li>MongoDB</li>
-	</ul>
-	<ul>
+	
 		<li>Jest</li>
 		<li>Testing Library</li>
 		<li>Cypress</li>
 		<li>Redux</li>
-	</ul>
-	<ul>
+	
 		<li>Styled-Components</li>
 		<li>SASS</li>
 		<li>Chakra UI</li>
 		<li>Tailwind CSS</li>
-	</ul>
-</p>
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaypatel99&layout=compact&theme=prussian&hide_border=true" />
 
