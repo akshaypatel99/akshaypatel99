@@ -13,44 +13,31 @@ I like to keep up-to-date with the latest trends in web development and expand m
 
 ### My current skillset
 
-Languages | Libs & Frameworks | Libs & Frameworks | Styles Libs | Testing
------------- | ------------- | ------------- | ------------- | -------------
-HTML | React | GraphQL | Jest | Styled-Components
-CSS | React Native | Node.js | Jest | Styled-Components
-JavaScript | Next.js | Express.js | Jest | Styled-Components
-TypeScript | React Router | MongoDB | Jest | Styled-Components
-
-HTML | React | GraphQL | Jest | Styled-Components
-CSS | React Native | Node.js | Jest | Styled-Components
-JavaScript | Next.js | Express.js | Jest | Styled-Components
-TypeScript | React Router | MongoDB | Jest | Styled-Components
-
-
-<li>HTML</li>		<li>React</li>
-<li>CSS</li>		<li>React Native</li>
-<li>JavaScript</li>	<li>Next.js</li>
-<li>TypeScript</li>	<li>React Router</li>
-
-		<li>React</li>
-		<li>React Native</li>
-		<li>Next.js</li>
-		<li>React Router</li>
-	
-		<li>GraphQL</li>
-		<li>Node.js</li>
-		<li>Express.js</li>
-		<li>MongoDB</li>
-	
-		<li>Jest</li>
-		<li>Testing Library</li>
-		<li>Cypress</li>
-		<li>Redux</li>
-	
-		<li>Styled-Components</li>
-		<li>SASS</li>
-		<li>Chakra UI</li>
-		<li>Tailwind CSS</li>
-
+- HTML
+- CSS
+	- Styled-Components
+	- SASS
+	- ChakraUI
+	- Tailwind CSS
+- JavaScript
+- TypeScript
+- React
+- React Native
+- Node.js
+	- Express.js
+- GraphQL
+	- Apollo
+- Libraries & Frameworks
+	- Next.js
+	- React Router
+	- Redux
+- Databses
+	- MongoDB
+	- MySQL
+- Testing
+	- Jest
+	- React Testing Library
+	- Cypress
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaypatel99&layout=compact&theme=prussian&hide_border=true" />
 
