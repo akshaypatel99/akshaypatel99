@@ -1,6 +1,6 @@
 # Hi there, I'm Akshay 👋
 
-## Check out my portfolio here: [akshaypatel.dev](https://www.akshaypatel.dev/)
+## [akshaypatel.dev](https://www.akshaypatel.dev/)
 
 ### *I'm a self-taught web developer with a passion for creating beautiful, responsive and interactive user experiences.*
 
