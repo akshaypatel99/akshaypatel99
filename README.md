@@ -63,7 +63,7 @@ Here are a few things I like to do and that I am passionate about outside of wri
 Happy to share any tips and recommendations.
 
 ---
-<p align="center"> © Akshay Patel 2022</p>
+<p align="center"> © Akshay Patel 2023</p>
 <p align="center">
 https://www.akshaypatel.dev
 </p>
